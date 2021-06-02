@@ -1,0 +1,13 @@
+.TS
+tab (@);
+c l.
+1@User console
+2@Monochromatic graphics terminal
+3@Color graphics terminal
+4@Line printer
+5@Digitizer
+Table entries
+6@Laser printer
+7@Unallocated
+.TE
+
